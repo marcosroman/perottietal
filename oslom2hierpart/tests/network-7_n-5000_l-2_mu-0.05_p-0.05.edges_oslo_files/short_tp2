@@ -1,0 +1,10 @@
+#module 0 size: 2 bs: 7.79859e-101
+1 2 
+#module 1 size: 4 bs: 2.58527e-12
+6 8 9 16 
+#module 2 size: 4 bs: 1.46437e-07
+5 6 12 15 
+#module 3 size: 5 bs: 1.53461e-07
+0 4 11 13 17 
+#module 4 size: 8 bs: 0.0209824
+3 7 8 10 11 14 18 19 

@@ -1,0 +1,352 @@
+#module 0 size: 13 bs: 0.0298649
+0 3 4 5 7 8 10 11 13 14 17 18 19 
+#module 1 size: 2 bs: 7.79859e-101
+1 2 
+#module 2 size: 3 bs: 1.16493e-11
+6 9 16 
+#module 3 size: 2 bs: 9.20238e-101
+12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 5.30333e-101
+1 2 
+#module 2 size: 3 bs: 7.92842e-101
+8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 9.35372e-101
+1 2 
+#module 2 size: 4 bs: 2.58527e-12
+6 8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.66076e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 1.30371e-102
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 8.91241e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.5556e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.17543e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 4 bs: 2.58527e-12
+6 8 9 16 
+#module 2 size: 2 bs: 7.82997e-101
+12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 8.86141e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.61094e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 7.94572e-101
+1 2 
+#module 2 size: 3 bs: 8.32943e-101
+8 9 16 
+#module 3 size: 4 bs: 1.46437e-07
+5 6 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 1.34884e-101
+1 2 
+#module 2 size: 3 bs: 7.78304e-101
+8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 5 bs: 1.53461e-07
+0 4 11 13 17 
+#module 1 size: 8 bs: 0.0209824
+3 7 8 10 11 14 18 19 
+#module 2 size: 2 bs: 9.67194e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 4 size: 3 bs: 1.16493e-11
+6 9 16 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 3.12088e-101
+8 9 16 
+#module 2 size: 2 bs: 9.87108e-101
+12 15 
+#module 0 size: 11 bs: 0.0056026
+0 3 4 7 8 10 11 13 14 17 18 
+#module 1 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 2 size: 3 bs: 1.16493e-11
+6 9 16 
+#module 3 size: 2 bs: 9.44036e-102
+1 2 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 7.30068e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 3.40547e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 8.67813e-101
+8 9 16 
+#module 2 size: 2 bs: 7.68527e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 9.14268e-101
+8 9 16 
+#module 2 size: 2 bs: 4.93596e-101
+1 2 
+#module 3 size: 3 bs: 5.49587e-101
+6 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 6.03368e-102
+1 2 
+#module 2 size: 4 bs: 2.58527e-12
+6 8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 7.66435e-101
+8 9 16 
+#module 2 size: 2 bs: 1.31367e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 8.95873e-102
+8 9 16 
+#module 2 size: 2 bs: 9.50272e-101
+1 2 
+#module 3 size: 3 bs: 9.26574e-101
+6 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 4.81826e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 5.06197e-101
+1 2 
+#module 2 size: 3 bs: 4.28877e-101
+8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 12 bs: 0.0322808
+0 3 4 7 8 10 11 13 14 17 18 19 
+#module 1 size: 2 bs: 2.95588e-101
+1 2 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 3 size: 3 bs: 1.16493e-11
+6 9 16 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 8.15542e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 9.80042e-101
+8 9 16 
+#module 2 size: 4 bs: 1.46437e-07
+5 6 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 3.32468e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 1.04806e-102
+1 2 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 3 size: 3 bs: 6.72512e-101
+8 9 16 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 4.60565e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 6.57277e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 2.7802e-101
+1 2 
+#module 2 size: 3 bs: 1.44031e-102
+8 9 16 
+#module 3 size: 4 bs: 1.46437e-07
+5 6 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 3.08609e-101
+8 9 16 
+#module 2 size: 2 bs: 9.5701e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 6.21552e-101
+8 9 16 
+#module 2 size: 2 bs: 9.21783e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 5.64616e-101
+1 2 
+#module 2 size: 3 bs: 2.64374e-101
+8 9 16 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 2 size: 3 bs: 9.68372e-101
+8 9 16 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 4.50222e-101
+1 2 
+#module 2 size: 3 bs: 4.68251e-101
+8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 7.96308e-101
+8 9 16 
+#module 2 size: 2 bs: 1.14395e-101
+12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.0505e-101
+8 9 16 
+#module 2 size: 2 bs: 6.27499e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 7.92098e-101
+1 2 
+#module 2 size: 3 bs: 7.99465e-101
+8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.72076e-101
+8 9 16 
+#module 2 size: 2 bs: 6.46491e-102
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 5.3647e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 2.47152e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 1.60301e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 2.57207e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908888
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 2 bs: 5.69646e-101
+1 2 
+#module 2 size: 3 bs: 5.82058e-101
+8 9 16 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 3.90374e-101
+8 9 16 
+#module 2 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 0 size: 11 bs: 0.0056026
+0 3 4 7 8 10 11 13 14 17 18 
+#module 1 size: 3 bs: 1.25735e-07
+5 12 15 
+#module 2 size: 3 bs: 1.16493e-11
+6 9 16 
+#module 3 size: 2 bs: 6.91591e-101
+1 2 
+#module 0 size: 10 bs: 0.000908889
+0 3 4 7 10 11 13 14 17 18 
+#module 1 size: 3 bs: 4.22549e-101
+8 9 16 
+#module 2 size: 2 bs: 5.9663e-101
+1 2 
+#module 3 size: 3 bs: 1.25735e-07
+5 12 15 

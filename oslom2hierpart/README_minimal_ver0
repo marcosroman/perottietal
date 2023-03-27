@@ -1,0 +1,49 @@
+oslom2hierpart.sh
+=================
+
+Installation
+------------
+
+OSLOM2 must be first compiled. The source code can be found in www.oslom.org
+
+After this, edit the script 'run_o2h.sh':
+  the variable 'oslom_undir_executable' needs to be set to the location of the executable 'oslom_undir' (located among the compiled files, can also be copied among the python code),
+	'nspfolder' is the folder in which the final output is saved (the '_oslom.nsp' file).
+
+Usage
+-----
+
+Once compiled and set, the code is ready to run.
+It takes as input a '.edges' file (where pairs of nodes, defining links in the network, are specified).
+
+An example is:
+
+  $ ./run_o2h.sh data/network.edges
+
+Here, data/network.edges is a file of network edges.
+The script produces the file
+
+  network_oslom.nsp
+
+saved in the folder $nspfolder, which is the end result.
+
+
+Other details
+-------------
+
+During the process, the script produces other folders/files as well.
+These are intermediate, all saved in the same folder in which
+the network.edges file resides. Namely, a folder
+
+  data/network.edges_oslo_files
+
+is generated (by oslom_undir), containing the files computed by OSLOM.
+Details about these files and theis specifications are given in the
+README file accompanying OSLOM's source code. Also, the folder
+
+  data/network.edges_oslom2modbp_files
+
+is generated, containing the transformation of OSLOM input to the 
+format of MODBP. In this way, the (previous) code to transform modbp
+output into .nsp files can be re-used (with some minor modifications).
+

@@ -1,0 +1,36 @@
+#module 0 size: 5 bs: 4.33879e-101
+0 1 13 18 30 
+#module 1 size: 5 bs: 2.93294e-101
+2 3 14 19 24 
+#module 2 size: 5 bs: 9.71372e-101
+4 5 15 25 31 
+#module 3 size: 5 bs: 5.29237e-101
+7 8 21 27 33 
+#module 4 size: 5 bs: 4.61917e-101
+9 10 16 22 28 
+#module 5 size: 5 bs: 8.86599e-101
+11 12 17 23 29 
+#module 6 size: 5 bs: 9.5711e-101
+34 51 52 53 60 
+#module 7 size: 5 bs: 3.96266e-101
+35 54 55 56 61 
+#module 8 size: 5 bs: 3.71719e-102
+40 44 47 50 59 
+#module 9 size: 5 bs: 8.55643e-101
+37 41 45 48 57 
+#module 10 size: 5 bs: 2.17154e-101
+38 42 46 49 58 
+#module 11 size: 4 bs: 7.71766e-101
+6 20 26 32 
+#module 12 size: 2 bs: 1.02959e-101
+64 65 
+#module 13 size: 2 bs: 7.47754e-101
+36 67 
+#module 14 size: 2 bs: 1.41201e-101
+39 68 
+#module 15 size: 2 bs: 2.12588e-101
+43 69 
+#module 16 size: 2 bs: 3.50711e-101
+62 66 
+#module 17 size: 2 bs: 8.22241e-102
+63 70 

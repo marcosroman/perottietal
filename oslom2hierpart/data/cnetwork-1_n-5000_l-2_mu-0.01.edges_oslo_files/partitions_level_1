@@ -1,0 +1,1800 @@
+#module 0 size: 5 bs: 1.65292e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.2491e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 3.31774e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.8698e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 8.89694e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 6.6705e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.74333e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.07604e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 1.70925e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 3.8733e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.10394e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.949e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.05334e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 3.17871e-102
+35 72 
+#module 14 size: 2 bs: 1.96209e-101
+68 71 
+#module 15 size: 2 bs: 1.38405e-101
+52 73 
+#module 16 size: 2 bs: 4.18655e-101
+46 74 
+#module 17 size: 2 bs: 9.1707e-101
+69 70 
+#module 0 size: 5 bs: 2.33439e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 8.5447e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 6.00455e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 7.30849e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 6.29859e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.4609e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 5.06877e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 9.54611e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 6.18238e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 4.99389e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.03344e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.0073e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 6.32744e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 2.40824e-101
+35 72 
+#module 14 size: 2 bs: 9.7478e-101
+68 71 
+#module 15 size: 2 bs: 6.33321e-101
+52 73 
+#module 16 size: 2 bs: 9.54623e-101
+46 74 
+#module 17 size: 2 bs: 6.15568e-101
+69 70 
+#module 0 size: 5 bs: 5.6637e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.29008e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.39865e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 3.30593e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.15281e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 2.69202e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.68436e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 2.34731e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.1244e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 4.26221e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.97518e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.12926e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.38459e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 2.41618e-101
+35 72 
+#module 14 size: 2 bs: 2.33084e-101
+68 71 
+#module 15 size: 2 bs: 9.03561e-101
+52 73 
+#module 16 size: 2 bs: 6.32194e-101
+46 74 
+#module 17 size: 2 bs: 8.10946e-101
+69 70 
+#module 0 size: 5 bs: 8.59164e-103
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.89066e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 9.44779e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 3.95234e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 8.26617e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 1.45387e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 7.79679e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.51625e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 3.45867e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 2.45775e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 5.30817e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.05829e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.18456e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.6855e-101
+35 72 
+#module 14 size: 2 bs: 2.0397e-101
+68 71 
+#module 15 size: 2 bs: 1.85846e-101
+52 73 
+#module 16 size: 2 bs: 6.22818e-101
+46 74 
+#module 17 size: 2 bs: 6.21321e-101
+69 70 
+#module 0 size: 5 bs: 7.70783e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.96979e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.36081e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 8.45396e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.20183e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.99782e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 5.72462e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.14205e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 6.12636e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 1.86099e-102
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.28411e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.90413e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.73987e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.038e-101
+35 72 
+#module 14 size: 2 bs: 5.56267e-101
+68 71 
+#module 15 size: 2 bs: 2.43444e-101
+52 73 
+#module 16 size: 2 bs: 8.30108e-101
+46 74 
+#module 17 size: 2 bs: 2.45612e-101
+69 70 
+#module 0 size: 5 bs: 3.44252e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 7.08162e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.02562e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 8.22786e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.45853e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 4.63435e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 1.90848e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.97175e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.92258e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 3.59168e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.42426e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 4.48013e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.03747e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 1.49639e-101
+35 72 
+#module 14 size: 2 bs: 9.35351e-101
+68 71 
+#module 15 size: 2 bs: 7.12827e-103
+52 73 
+#module 16 size: 2 bs: 9.54892e-101
+46 74 
+#module 17 size: 2 bs: 5.26143e-101
+69 70 
+#module 0 size: 5 bs: 9.98878e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.81484e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 6.96906e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 7.09889e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.30392e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 4.36191e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 8.64719e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 6.41492e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 3.56002e-102
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.74875e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 5.3778e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.07153e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 7.17163e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.28375e-101
+35 72 
+#module 14 size: 2 bs: 7.84195e-101
+68 71 
+#module 15 size: 2 bs: 2.95638e-101
+52 73 
+#module 16 size: 2 bs: 3.4348e-101
+46 74 
+#module 17 size: 2 bs: 9.76761e-101
+69 70 
+#module 0 size: 5 bs: 3.32538e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.35429e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 8.77421e-102
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.47388e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.69414e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 6.6223e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.19596e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.02386e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 5.42423e-102
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.72036e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.84438e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.40838e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.20684e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 8.90205e-101
+35 72 
+#module 14 size: 2 bs: 1.83673e-102
+68 71 
+#module 15 size: 2 bs: 3.63346e-101
+52 73 
+#module 16 size: 2 bs: 7.25683e-101
+46 74 
+#module 17 size: 2 bs: 7.26226e-101
+69 70 
+#module 0 size: 5 bs: 8.2323e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.11188e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 1.10614e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.56179e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 5.47192e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 1.80031e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 2.46193e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.73808e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 2.16394e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.58757e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 8.33936e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.46262e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 3.42092e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 3.84071e-101
+35 72 
+#module 14 size: 2 bs: 5.06204e-101
+68 71 
+#module 15 size: 2 bs: 5.90969e-101
+52 73 
+#module 16 size: 2 bs: 6.29568e-101
+46 74 
+#module 17 size: 2 bs: 9.11e-101
+69 70 
+#module 0 size: 5 bs: 7.39212e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.01843e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.3315e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.7864e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 4.88174e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 3.86238e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.49334e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 8.78463e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 3.91061e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 3.39213e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.03118e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.64935e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.26554e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.76045e-101
+35 72 
+#module 14 size: 2 bs: 4.69456e-101
+68 71 
+#module 15 size: 2 bs: 7.39004e-101
+52 73 
+#module 16 size: 2 bs: 8.50407e-101
+46 74 
+#module 17 size: 2 bs: 7.32976e-101
+69 70 
+#module 0 size: 5 bs: 4.58089e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.00192e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.74701e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.27263e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 5.7889e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.54059e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 5.1171e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 9.26616e-102
+5 6 19 26 32 
+#module 8 size: 5 bs: 9.82979e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 5.01617e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.3836e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 6.15702e-102
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.50633e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.81746e-101
+35 72 
+#module 14 size: 2 bs: 6.16017e-101
+68 71 
+#module 15 size: 2 bs: 3.11992e-101
+52 73 
+#module 16 size: 2 bs: 8.8761e-101
+46 74 
+#module 17 size: 2 bs: 1.81111e-101
+69 70 
+#module 0 size: 5 bs: 7.66528e-102
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.132e-102
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.76666e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.73307e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 7.97074e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 1.72613e-102
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.08974e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 1.10678e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 1.45574e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.40009e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 1.62554e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 6.38796e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 8.92686e-103
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.98008e-101
+35 72 
+#module 14 size: 2 bs: 4.45236e-101
+68 71 
+#module 15 size: 2 bs: 3.23782e-101
+52 73 
+#module 16 size: 2 bs: 3.80736e-101
+46 74 
+#module 17 size: 2 bs: 7.11133e-101
+69 70 
+#module 0 size: 5 bs: 9.31395e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 3.36934e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 8.45396e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 2.65122e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 5.74718e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 4.7929e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.20502e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 6.92754e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 9.9618e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 4.31675e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.96721e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.79264e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 8.83223e-102
+8 9 15 21 34 
+#module 13 size: 2 bs: 5.40746e-102
+35 72 
+#module 14 size: 2 bs: 5.48022e-101
+68 71 
+#module 15 size: 2 bs: 8.34015e-101
+52 73 
+#module 16 size: 2 bs: 8.90615e-101
+46 74 
+#module 17 size: 2 bs: 3.15485e-101
+69 70 
+#module 0 size: 5 bs: 3.30833e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.06715e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.17614e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 3.1485e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 2.10256e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 1.8357e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 7.81652e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 1.98701e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 4.4272e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 1.48152e-102
+39 43 49 55 64 
+#module 10 size: 5 bs: 8.42256e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.29653e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 6.39263e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.14319e-101
+35 72 
+#module 14 size: 2 bs: 8.60606e-101
+68 71 
+#module 15 size: 2 bs: 7.26327e-101
+52 73 
+#module 16 size: 2 bs: 2.88131e-102
+46 74 
+#module 17 size: 2 bs: 9.41135e-101
+69 70 
+#module 0 size: 5 bs: 4.45596e-102
+3 12 17 24 30 
+#module 1 size: 5 bs: 3.59871e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 6.27828e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 3.99556e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.85918e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 5.78898e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 6.90003e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 3.68429e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.49823e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.33929e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 9.27717e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.96072e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.57471e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 9.07045e-101
+35 72 
+#module 14 size: 2 bs: 3.06685e-101
+68 71 
+#module 15 size: 2 bs: 3.79496e-101
+52 73 
+#module 16 size: 2 bs: 4.81268e-101
+46 74 
+#module 17 size: 2 bs: 3.72194e-101
+69 70 
+#module 0 size: 5 bs: 7.71841e-102
+3 12 17 24 30 
+#module 1 size: 5 bs: 4.7972e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 1.66678e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 5.39993e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 8.74105e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 4.41481e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 9.63738e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 8.30952e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 6.45195e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 5.31743e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.01622e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.0704e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 8.28812e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 5.47227e-101
+35 72 
+#module 14 size: 2 bs: 9.31294e-101
+68 71 
+#module 15 size: 2 bs: 9.46119e-101
+52 73 
+#module 16 size: 2 bs: 2.46903e-101
+46 74 
+#module 17 size: 2 bs: 5.18656e-101
+69 70 
+#module 0 size: 5 bs: 2.89713e-102
+3 12 17 24 30 
+#module 1 size: 5 bs: 9.8908e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.1868e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.90571e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 2.74559e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 6.06793e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 8.84533e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.01291e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 9.10501e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.77527e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.13633e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.68668e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 6.18421e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.05343e-101
+35 72 
+#module 14 size: 2 bs: 1.85471e-101
+68 71 
+#module 15 size: 2 bs: 9.516e-101
+52 73 
+#module 16 size: 2 bs: 8.50232e-101
+46 74 
+#module 17 size: 2 bs: 8.17892e-101
+69 70 
+#module 0 size: 5 bs: 3.28112e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 9.99716e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 3.1566e-103
+36 58 59 60 67 
+#module 3 size: 5 bs: 2.6325e-102
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.84947e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.71969e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 2.72128e-102
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.79648e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 1.9692e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 3.42878e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.6969e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 2.29886e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 6.8225e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.29922e-101
+35 72 
+#module 14 size: 2 bs: 5.54387e-101
+68 71 
+#module 15 size: 2 bs: 5.64354e-101
+52 73 
+#module 16 size: 2 bs: 9.49716e-101
+46 74 
+#module 17 size: 2 bs: 3.14474e-102
+69 70 
+#module 0 size: 5 bs: 4.03193e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.37273e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.09323e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 2.53146e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 2.57605e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.85926e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 6.94626e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.57575e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 2.83295e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 1.76366e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 7.53292e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.58442e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 7.38907e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 8.2366e-101
+35 72 
+#module 14 size: 2 bs: 8.25054e-101
+68 71 
+#module 15 size: 2 bs: 2.12278e-101
+52 73 
+#module 16 size: 2 bs: 3.21223e-101
+46 74 
+#module 17 size: 2 bs: 9.22957e-101
+69 70 
+#module 0 size: 5 bs: 6.36837e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 3.04269e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.90175e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 2.04593e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 5.9079e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 4.73273e-102
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.30935e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.55217e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 5.50665e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 4.30501e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.60361e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.01281e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.45179e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.33388e-101
+35 72 
+#module 14 size: 2 bs: 7.72755e-101
+68 71 
+#module 15 size: 2 bs: 9.61651e-101
+52 73 
+#module 16 size: 2 bs: 8.42023e-101
+46 74 
+#module 17 size: 2 bs: 9.20885e-101
+69 70 
+#module 0 size: 5 bs: 5.72228e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.4564e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.47341e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.51299e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.4954e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 2.02578e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 7.82476e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.49123e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 2.5626e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.74323e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 2.42493e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.77596e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 2.28655e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 3.35195e-101
+35 72 
+#module 14 size: 2 bs: 1.30922e-102
+68 71 
+#module 15 size: 2 bs: 1.61094e-101
+52 73 
+#module 16 size: 2 bs: 2.59224e-101
+46 74 
+#module 17 size: 2 bs: 4.53961e-101
+69 70 
+#module 0 size: 5 bs: 2.70797e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.69715e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 1.01139e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 2.76767e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.02878e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.22816e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 6.22023e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 8.76886e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 5.95468e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.27822e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 1.86257e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.47933e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 3.81553e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 1.89119e-101
+35 72 
+#module 14 size: 2 bs: 3.48503e-101
+68 71 
+#module 15 size: 2 bs: 2.58628e-101
+52 73 
+#module 16 size: 2 bs: 2.05131e-101
+46 74 
+#module 17 size: 2 bs: 2.03141e-101
+69 70 
+#module 0 size: 5 bs: 1.87933e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 3.80047e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.1567e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 7.47578e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 9.53131e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 2.51984e-102
+41 45 51 57 66 
+#module 6 size: 5 bs: 1.81792e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.23249e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.6823e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 2.48779e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 9.57931e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.37798e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 2.76055e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 4.13726e-102
+35 72 
+#module 14 size: 2 bs: 3.68442e-101
+68 71 
+#module 15 size: 2 bs: 3.65456e-101
+52 73 
+#module 16 size: 2 bs: 3.0054e-102
+46 74 
+#module 17 size: 2 bs: 1.98987e-102
+69 70 
+#module 0 size: 5 bs: 2.29913e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 9.39416e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 3.38967e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.93345e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.46267e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 4.05909e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.91402e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.54904e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 1.08295e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.07163e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.31071e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.17705e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.26468e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 3.98279e-101
+35 72 
+#module 14 size: 2 bs: 4.96851e-101
+68 71 
+#module 15 size: 2 bs: 2.38803e-101
+52 73 
+#module 16 size: 2 bs: 9.55865e-101
+46 74 
+#module 17 size: 2 bs: 5.48334e-101
+69 70 
+#module 0 size: 5 bs: 5.85837e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.33072e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 4.80604e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.65612e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.33827e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.07645e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 6.21705e-102
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.34948e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.86943e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 3.17882e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.67622e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 4.02888e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.16996e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 5.73646e-101
+35 72 
+#module 14 size: 2 bs: 3.70288e-101
+68 71 
+#module 15 size: 2 bs: 6.68259e-101
+52 73 
+#module 16 size: 2 bs: 8.69005e-101
+46 74 
+#module 17 size: 2 bs: 2.86103e-101
+69 70 
+#module 0 size: 5 bs: 3.32445e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 8.46881e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 9.25547e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.46256e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 9.03263e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 3.52611e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 9.1015e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 2.42349e-102
+5 6 19 26 32 
+#module 8 size: 5 bs: 4.17275e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.1553e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 1.67164e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.14181e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 2.07673e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.45173e-101
+35 72 
+#module 14 size: 2 bs: 3.18312e-101
+68 71 
+#module 15 size: 2 bs: 8.25688e-101
+52 73 
+#module 16 size: 2 bs: 5.50601e-102
+46 74 
+#module 17 size: 2 bs: 2.42291e-101
+69 70 
+#module 0 size: 5 bs: 2.76544e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 7.76407e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.45834e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.37788e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.504e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 9.09045e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 8.92855e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.7499e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.42714e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 5.59256e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 5.87917e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 4.50641e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 2.02559e-102
+8 9 15 21 34 
+#module 13 size: 2 bs: 2.39696e-101
+35 72 
+#module 14 size: 2 bs: 5.36341e-101
+68 71 
+#module 15 size: 2 bs: 5.27122e-101
+52 73 
+#module 16 size: 2 bs: 6.25757e-101
+46 74 
+#module 17 size: 2 bs: 3.09748e-101
+69 70 
+#module 0 size: 5 bs: 1.041e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 8.27049e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 3.63049e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 3.42321e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.27945e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.0303e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 5.28741e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.36778e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 3.92812e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.72635e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.69908e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.63271e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 3.64634e-102
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.79008e-101
+35 72 
+#module 14 size: 2 bs: 4.73012e-102
+68 71 
+#module 15 size: 2 bs: 4.171e-101
+52 73 
+#module 16 size: 2 bs: 3.77946e-101
+46 74 
+#module 17 size: 2 bs: 9.89202e-102
+69 70 
+#module 0 size: 5 bs: 8.77499e-102
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.45044e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 6.36136e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.0469e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.10297e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 6.87919e-102
+41 45 51 57 66 
+#module 6 size: 5 bs: 1.42627e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 9.14367e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.03309e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 4.05096e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 5.84153e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.74884e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 5.15354e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.43144e-101
+35 72 
+#module 14 size: 2 bs: 2.56562e-101
+68 71 
+#module 15 size: 2 bs: 6.55957e-101
+52 73 
+#module 16 size: 2 bs: 4.1053e-102
+46 74 
+#module 17 size: 2 bs: 7.07932e-101
+69 70 
+#module 0 size: 5 bs: 8.40478e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.05042e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.40845e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.23859e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.16454e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 5.83049e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 7.18446e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 6.4613e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 9.40644e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.04099e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 2.55134e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.72389e-102
+1 2 11 23 29 
+#module 12 size: 5 bs: 5.87182e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.21868e-101
+35 72 
+#module 14 size: 2 bs: 1.09751e-101
+68 71 
+#module 15 size: 2 bs: 4.70493e-101
+52 73 
+#module 16 size: 2 bs: 4.61511e-101
+46 74 
+#module 17 size: 2 bs: 1.68853e-101
+69 70 
+#module 0 size: 5 bs: 1.7866e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.16523e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.40822e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 2.00005e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.71969e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.49057e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.6258e-103
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.32074e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.52288e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 9.80011e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 1.13646e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.90209e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.19805e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.82323e-101
+35 72 
+#module 14 size: 2 bs: 7.63209e-101
+68 71 
+#module 15 size: 2 bs: 4.30681e-101
+52 73 
+#module 16 size: 2 bs: 7.66142e-101
+46 74 
+#module 17 size: 2 bs: 7.18524e-101
+69 70 
+#module 0 size: 5 bs: 9.22808e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.11382e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 1.89119e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.76856e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 3.85598e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 9.95072e-103
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.71059e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 3.65078e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 5.91375e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.73039e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.59882e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 6.47231e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.2239e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 2.36123e-102
+35 72 
+#module 14 size: 2 bs: 1.87192e-101
+68 71 
+#module 15 size: 2 bs: 2.24802e-101
+52 73 
+#module 16 size: 2 bs: 8.76879e-101
+46 74 
+#module 17 size: 2 bs: 4.43693e-101
+69 70 
+#module 0 size: 5 bs: 7.48979e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 1.67504e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.66966e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 1.71217e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 9.25161e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 9.79339e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.19991e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 3.8829e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 6.30826e-102
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.24781e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 2.90669e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.88422e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 7.66995e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.82923e-101
+35 72 
+#module 14 size: 2 bs: 3.47e-101
+68 71 
+#module 15 size: 2 bs: 8.90209e-101
+52 73 
+#module 16 size: 2 bs: 1.68044e-101
+46 74 
+#module 17 size: 2 bs: 9.45002e-101
+69 70 
+#module 0 size: 5 bs: 6.68933e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.05022e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 3.69907e-102
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.56944e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 7.10421e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 2.48088e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.24774e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 6.4604e-102
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.66282e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.22662e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 2.79117e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.72724e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 6.11342e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 5.24968e-101
+35 72 
+#module 14 size: 2 bs: 4.84691e-101
+68 71 
+#module 15 size: 2 bs: 9.1906e-101
+52 73 
+#module 16 size: 2 bs: 1.31264e-101
+46 74 
+#module 17 size: 2 bs: 4.05946e-101
+69 70 
+#module 0 size: 5 bs: 9.57631e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 9.4185e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 9.75184e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.63744e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 9.10415e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.15587e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 1.09693e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.59608e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.74789e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 2.36483e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 3.7173e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.94529e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.06227e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 8.71142e-101
+35 72 
+#module 14 size: 2 bs: 8.02439e-101
+68 71 
+#module 15 size: 2 bs: 7.71299e-101
+52 73 
+#module 16 size: 2 bs: 4.41114e-101
+46 74 
+#module 17 size: 2 bs: 6.57329e-101
+69 70 
+#module 0 size: 5 bs: 3.02357e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 9.04906e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.11994e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 7.24136e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 6.56659e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 1.01292e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 2.64817e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.71977e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.17187e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.58216e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.02596e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.05416e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.57428e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 2.72444e-101
+35 72 
+#module 14 size: 2 bs: 1.30672e-101
+68 71 
+#module 15 size: 2 bs: 4.6789e-101
+52 73 
+#module 16 size: 2 bs: 6.60973e-101
+46 74 
+#module 17 size: 2 bs: 2.27565e-101
+69 70 
+#module 0 size: 5 bs: 4.29873e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 4.89431e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.95829e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 8.49379e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 2.40731e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 3.21647e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.9588e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 8.8709e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 1.36936e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 4.37426e-102
+39 43 49 55 64 
+#module 10 size: 5 bs: 8.07726e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.93936e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.52514e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 1.7702e-101
+35 72 
+#module 14 size: 2 bs: 5.47924e-101
+68 71 
+#module 15 size: 2 bs: 3.00715e-101
+52 73 
+#module 16 size: 2 bs: 3.16565e-101
+46 74 
+#module 17 size: 2 bs: 1.05188e-102
+69 70 
+#module 0 size: 5 bs: 8.63217e-102
+3 12 17 24 30 
+#module 1 size: 5 bs: 7.95202e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 8.90785e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 7.1001e-102
+37 47 53 61 62 
+#module 4 size: 5 bs: 6.93555e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 2.14211e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 9.8165e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.93825e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 6.50695e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 9.73406e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.09997e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.68981e-102
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.42735e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 9.2301e-102
+35 72 
+#module 14 size: 2 bs: 5.59742e-101
+68 71 
+#module 15 size: 2 bs: 6.41019e-101
+52 73 
+#module 16 size: 2 bs: 4.65516e-101
+46 74 
+#module 17 size: 2 bs: 7.78146e-101
+69 70 
+#module 0 size: 5 bs: 5.66068e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.45153e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.366e-102
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.45403e-102
+37 47 53 61 62 
+#module 4 size: 5 bs: 9.78345e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 6.67399e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 5.27971e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.98032e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 1.18744e-102
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.19177e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 5.10819e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 2.16427e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 8.65448e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 4.93164e-101
+35 72 
+#module 14 size: 2 bs: 9.60652e-101
+68 71 
+#module 15 size: 2 bs: 3.37332e-101
+52 73 
+#module 16 size: 2 bs: 7.06722e-101
+46 74 
+#module 17 size: 2 bs: 8.56204e-101
+69 70 
+#module 0 size: 5 bs: 5.06461e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 4.61981e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 2.81946e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.71658e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.13253e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 9.25216e-103
+41 45 51 57 66 
+#module 6 size: 5 bs: 2.80808e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 6.30963e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 3.51344e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 5.36935e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 2.90176e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.2377e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 6.34473e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 3.10185e-101
+35 72 
+#module 14 size: 2 bs: 8.48783e-101
+68 71 
+#module 15 size: 2 bs: 4.82987e-101
+52 73 
+#module 16 size: 2 bs: 9.42825e-102
+46 74 
+#module 17 size: 2 bs: 3.27735e-102
+69 70 
+#module 0 size: 5 bs: 1.40716e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.60282e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.9784e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 1.96689e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 2.33465e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.03548e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 1.44602e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 6.46506e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.35341e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 2.01241e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 7.35416e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.03269e-102
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.61608e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 8.95959e-101
+35 72 
+#module 14 size: 2 bs: 5.69116e-101
+68 71 
+#module 15 size: 2 bs: 2.41786e-101
+52 73 
+#module 16 size: 2 bs: 9.0499e-101
+46 74 
+#module 17 size: 2 bs: 2.29984e-101
+69 70 
+#module 0 size: 5 bs: 7.98826e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.10658e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 9.9577e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 6.3318e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 8.29147e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.1104e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 7.55213e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.91276e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.45998e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.37332e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.47399e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 1.32822e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 5.05266e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 5.64809e-103
+35 72 
+#module 14 size: 2 bs: 8.69154e-101
+68 71 
+#module 15 size: 2 bs: 6.90151e-101
+52 73 
+#module 16 size: 2 bs: 1.9317e-101
+46 74 
+#module 17 size: 2 bs: 2.36186e-101
+69 70 
+#module 0 size: 5 bs: 9.40486e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.25902e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.78749e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 1.49178e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.04392e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.8661e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.99673e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 2.48796e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.31769e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.35939e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 4.54864e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.47993e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 4.95793e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.90152e-101
+35 72 
+#module 14 size: 2 bs: 8.03417e-101
+68 71 
+#module 15 size: 2 bs: 4.71746e-101
+52 73 
+#module 16 size: 2 bs: 7.44722e-102
+46 74 
+#module 17 size: 2 bs: 9.58744e-101
+69 70 
+#module 0 size: 5 bs: 3.25888e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.59566e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.7089e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.71806e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 1.50852e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.55875e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 5.3363e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.55231e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.13182e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.17573e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 7.11557e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.81114e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 1.44192e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 6.83e-101
+35 72 
+#module 14 size: 2 bs: 3.9862e-101
+68 71 
+#module 15 size: 2 bs: 4.30402e-101
+52 73 
+#module 16 size: 2 bs: 5.78138e-101
+46 74 
+#module 17 size: 2 bs: 7.42863e-101
+69 70 
+#module 0 size: 5 bs: 1.45044e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.257e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 8.451e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 9.19352e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 6.1272e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 9.07605e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 2.28876e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 5.62675e-102
+5 6 19 26 32 
+#module 8 size: 5 bs: 6.68327e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.10583e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 7.94953e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 8.06694e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 8.44467e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 4.16079e-101
+35 72 
+#module 14 size: 2 bs: 9.9568e-101
+68 71 
+#module 15 size: 2 bs: 4.38805e-101
+52 73 
+#module 16 size: 2 bs: 9.04677e-102
+46 74 
+#module 17 size: 2 bs: 6.5144e-101
+69 70 
+#module 0 size: 5 bs: 4.21322e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 2.60252e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.84474e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 4.76069e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 5.0891e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 7.40699e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 4.78639e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 4.98424e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 3.00096e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 9.74324e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 1.77034e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.51483e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.65118e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 1.50355e-101
+35 72 
+#module 14 size: 2 bs: 3.20108e-101
+68 71 
+#module 15 size: 2 bs: 6.38035e-101
+52 73 
+#module 16 size: 2 bs: 9.79881e-101
+46 74 
+#module 17 size: 2 bs: 2.02918e-101
+69 70 
+#module 0 size: 5 bs: 3.45568e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 7.92621e-102
+7 14 20 27 33 
+#module 2 size: 5 bs: 8.66373e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 8.08842e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 6.57357e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 3.3927e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 8.98482e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 2.30279e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 8.80493e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 7.08033e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 1.81956e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 7.24982e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 7.52256e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 4.00848e-101
+35 72 
+#module 14 size: 2 bs: 8.2455e-101
+68 71 
+#module 15 size: 2 bs: 5.12711e-101
+52 73 
+#module 16 size: 2 bs: 6.92195e-102
+46 74 
+#module 17 size: 2 bs: 6.0703e-101
+69 70 
+#module 0 size: 5 bs: 2.55952e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.95884e-102
+7 14 20 27 33 
+#module 2 size: 5 bs: 7.27447e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 8.48201e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 6.23252e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 5.13033e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 2.33263e-102
+4 13 18 25 31 
+#module 7 size: 5 bs: 2.14416e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 9.69956e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 6.73632e-102
+39 43 49 55 64 
+#module 10 size: 5 bs: 6.9092e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 9.22779e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 9.2709e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.08873e-101
+35 72 
+#module 14 size: 2 bs: 5.38341e-101
+68 71 
+#module 15 size: 2 bs: 3.19617e-101
+52 73 
+#module 16 size: 2 bs: 7.76643e-101
+46 74 
+#module 17 size: 2 bs: 1.31474e-102
+69 70 
+#module 0 size: 5 bs: 5.13511e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 6.55383e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 5.85771e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 5.22813e-101
+37 47 53 61 62 
+#module 4 size: 5 bs: 5.02572e-102
+40 44 50 56 65 
+#module 5 size: 5 bs: 1.5481e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.91211e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 1.85555e-102
+5 6 19 26 32 
+#module 8 size: 5 bs: 7.57812e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 8.4872e-101
+39 43 49 55 64 
+#module 10 size: 5 bs: 7.18032e-102
+0 10 16 22 28 
+#module 11 size: 5 bs: 2.06875e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 7.17109e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 8.32316e-101
+35 72 
+#module 14 size: 2 bs: 7.92354e-101
+68 71 
+#module 15 size: 2 bs: 8.88215e-101
+52 73 
+#module 16 size: 2 bs: 9.84498e-101
+46 74 
+#module 17 size: 2 bs: 2.71457e-102
+69 70 
+#module 0 size: 5 bs: 8.91302e-101
+3 12 17 24 30 
+#module 1 size: 5 bs: 5.92757e-101
+7 14 20 27 33 
+#module 2 size: 5 bs: 1.24011e-101
+36 58 59 60 67 
+#module 3 size: 5 bs: 7.52312e-102
+37 47 53 61 62 
+#module 4 size: 5 bs: 4.29022e-101
+40 44 50 56 65 
+#module 5 size: 5 bs: 8.72429e-101
+41 45 51 57 66 
+#module 6 size: 5 bs: 3.50016e-101
+4 13 18 25 31 
+#module 7 size: 5 bs: 7.41585e-101
+5 6 19 26 32 
+#module 8 size: 5 bs: 9.725e-101
+38 42 48 54 63 
+#module 9 size: 5 bs: 1.3214e-102
+39 43 49 55 64 
+#module 10 size: 5 bs: 8.13289e-101
+0 10 16 22 28 
+#module 11 size: 5 bs: 3.50632e-101
+1 2 11 23 29 
+#module 12 size: 5 bs: 8.95075e-101
+8 9 15 21 34 
+#module 13 size: 2 bs: 7.81975e-101
+35 72 
+#module 14 size: 2 bs: 2.7697e-101
+68 71 
+#module 15 size: 2 bs: 8.84229e-101
+52 73 
+#module 16 size: 2 bs: 2.76704e-101
+46 74 
+#module 17 size: 2 bs: 5.52279e-101
+69 70 

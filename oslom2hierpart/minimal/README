@@ -1,0 +1,84 @@
+##########
+# README #
+##########
+
+ABOUT the script
+----------------
+
+run_o2h.sh
+
+Reads: a network in format "edgelist".
+
+Returns: the hierarchical modular decomposition of the network in format "nsp",
+which is the standard format of the NestedPartition class in the hierpart Python 
+package.
+
+HOW IT WORKS
+------------
+
+In the process:
+
+1. The script runs OSLOM2 (the second and faster version of OSLOM) over the 
+input network.
+
+2. Reads OSLOM2 result and transforms it into the output format of "modbp".
+
+3. Creates the .nsp file from the output format in step 2.
+
+In summary:
+
+    ("edgelist" network format) --OSLOM2--> ("modbp" hierarchical partition format) --modbp2nsp--> ("nsp" hierarchical partition format).
+
+
+IMPORTANT NOTE for Claudio and Zhao
+-----------------------------------
+
+You guys should ommit step 1. since you already ran OSLOM2 on the 
+networks of the ensamble. You may need to adapt the script a little
+if the folders' names or structure is not appropriate.
+
+INSTALLATION
+------------
+
+OSLOM2 must be first compiled. The source code can be found in www.oslom.org
+
+After this, edit the script 'run_o2h.sh':
+  the variable 'oslom_undir_executable' needs to be set to the location of the executable 'oslom_undir' (located among the compiled files, can also be copied among the python code),
+	'nspfolder' is the folder in which the final output is saved (the '_oslom.nsp' file).
+
+USAGE
+-----
+
+Once compiled and set, the code is ready to run.
+It takes as input a '.edges' file (where pairs of nodes, defining links in the network, are specified).
+
+An example is:
+
+  $ ./run_o2h.sh data/network.edges
+
+Here, data/network.edges is a file of network edges.
+The script produces the file
+
+  network_oslom.nsp
+
+saved in the folder $nspfolder, which is the end result.
+
+OTHER DETAILS
+-------------
+
+During the process, the script produces other folders/files as well.
+These are intermediate, all saved in the same folder in which
+the network.edges file resides. Namely, a folder
+
+  data/network.edges_oslo_files
+
+is generated (by oslom_undir), containing the files computed by OSLOM.
+Details about these files and theis specifications are given in the
+README file accompanying OSLOM's source code. Also, the folder
+
+  data/network.edges_oslom2modbp_files
+
+is generated, containing the transformation of OSLOM input to the 
+format of MODBP. In this way, the (previous) code to transform modbp
+output into .nsp files can be re-used (with some minor modifications).
+

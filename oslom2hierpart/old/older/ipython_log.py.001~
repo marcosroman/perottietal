@@ -1,0 +1,187 @@
+# IPython log file
+
+f=open("tp","r")
+lines=f.readlines()
+lines
+lines
+lines[1::2]
+len(lines[1::2])
+filteredlines=lines[1::2]
+map("".split(" "),filteredlines)
+map("".split,filteredlines)
+map(" ".split,filteredlines)
+for l in filteredlines:
+    q=l.split(" ")
+    s=ma
+    p(int,q)
+for l in filteredlines:
+    q=l.split(" ")
+    s=map(int,q)
+    print s
+    
+for l in filteredlines:
+    q=l.split(" ")
+    #s=map(int,q)
+    #print s
+    print q
+    
+for l in filteredlines:
+    q=l.split(" ")[:-1]
+   
+    #s=map(int,q)
+    #print s
+    print q
+    
+for l in filteredlines:
+    q=l.split(" ")[:-1]
+   
+    s=map(int,q)
+    print s
+    print q
+    
+for l in filteredlines:
+    q=l.split(" ")[:-1]
+   
+    s=map(int,q)
+    print s
+    #print q
+    
+modules=[]
+for l in filteredlines:
+    q=l.split(" ")[:-1]
+   
+    s=map(int,q)
+    #print s
+    #print q
+    modules.append(s)
+    
+modules
+modules[0]
+lines
+lines[1]
+modules[0]
+set(modules[0]).intersection(set(modules[1]))
+set(modules[0]).intersection(set(modules[2]))
+set(modules[0]).intersection(set(modules[3]))
+set(modules[0]).intersection(set(modules[4]))
+set(modules[0]).intersection(set(modules[5]))
+set(modules[0]).intersection(set(modules[6]))
+set(modules[0]).intersection(set(modules[7]))
+set(modules[1]).intersection(set(modules[7]))
+set(modules[2]).intersection(set(modules[7]))
+set(modules[3]).intersection(set(modules[7]))
+set(modules[3]).intersection(set(modules[6]))
+set(modules[3]).intersection(set(modules[5]))
+set(modules[3]).intersection(set(modules[4]))
+set(modules[3]).intersection(set(modules[2]))
+get_ipython().magic(u'logstart ')
+get_ipython().magic(u'history ')
+modules
+get_ipython().system(u'ls')
+modules
+netf=open
+get_ipython().system(u'pwd')
+netf=open("../example.dat","r")
+netlines=netf.readlines()
+netlines
+for l in netlines:
+    print l.split("\t")[:-1]
+    
+for l in netlines:
+    print l.split("\t")
+    
+for l in netlines:
+    s=l.split("\t")
+    print map(int,s)
+    
+for l in netlines[:-1]
+:
+    s=l.split("\t")
+    print map(int,s)
+    
+for l in netlines[:-1]:
+    s=l.split("\t")
+    print map(int,s)
+    
+for l in netlines[:-1]:
+    s=l.split("\t")
+    print map(int,s)
+    
+llnet=[]
+for l in netlines[:-1]:
+    s=l.split("\t")
+    ll.append(map(int,s))
+    
+    
+for l in netlines[:-1]:
+    s=l.split("\t")
+    llnet.append(map(int,s))
+    
+    
+llnet
+get_ipython().magic(u'history ')
+moduels
+modules
+modules[0]
+max(modules)
+max([i for i in modules])
+max([i for i in j in modules])
+modules[1]+modules[2}
+modules[1]+modules[2]
+import numpy as np
+netdata=np.loadtxt("../example.dat")
+max(netdata)
+max(netdata[:,0])
+max(netdata[:,1])
+min(netdata[:,1])
+min(netdata[:,0])
+listmodulespernode=[[] for i in range(N)]
+N=1000
+listmodulespernode=[[] for i in range(N)]
+for i_module in range(len(modules)):
+    for i_node in modules[i]:
+        listmodulespernode[i].append[i_module]
+        
+for i_module in range(len(modules)):
+    for i_node in modules[i_module]:
+        listmodulespernode[i_node].append[i_module]
+        
+        
+listmodulespernode=[[] for i in range(N)]
+for i_module in range(len(modules)):
+    for i_node in modules[i_module]:
+        listmodulespernode[i_node].append[i_module]
+        
+        
+for i_module in range(len(modules)):
+    for i_node in modules[i_module]:
+        listmodulespernode[i_node].append(i_module)
+        
+listmodulespernode
+listmodulespernode=[[] for i in range(N)]
+for i_module in range(len(modules)):
+    for i_node in modules[i_module]:
+        listmodulespernode[i_node].append(i_module)
+        
+for i_module in range(len(modules)):
+    print max(modules[i_module])
+    
+for i_module in range(len(modules)):
+    for node in modules[i_module]:
+        i_node=node-1 # porque nuestro conteo es de 0 a N-1
+        listmodulespernode[i_node].append(i_module)
+        
+listmodulespernode=[[] for i in range(N)]
+for i_module in range(len(modules)):
+    for node in modules[i_module]:
+        i_node=node-1 # porque nuestro conteo es de 0 a N-1
+        listmodulespernode[i_node].append(i_module)
+        
+listmodulespernode
+listmodulespernode[16]
+listmodulespernode[15]
+listmodulespernode[17]
+get_ipython().system(u'pwd')
+listmodulespernode[96]
+listmodulespernode[18]
+exit()
